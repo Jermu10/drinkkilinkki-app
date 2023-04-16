@@ -6,7 +6,7 @@
   
     npm install -g expo-cli // Jos ei ole expo-cli vielä valmiiksi koneessa
     npx create-expo-app drinkkilinkkiapp
-    expo start #Kokeillaan heti saadaanko sovellus pyörimään
+    expo start // Kokeillaan heti saadaanko sovellus pyörimään
 
 Saatiin!    
 
@@ -34,10 +34,10 @@ Ajattelin tehdä jokaisen sivun omaan kansioon, jonka sisällä on sen sivun kai
 
 Aloitan navigaatio kansiosta johon luon Navigation.js Tässä lista kirjastoista, mitä ainakin pitäisi ladata:
 
-  - @react-navigation/native
-  - npx expo install react-native-screens react-native-safe-area-context // 'npx expo' command line interface provides a way to install dependencies specific to Expo projects.
-  - @react-navigation/bottom-tabs
-  - @expo/vector-icons
+    @react-navigation/native
+    npx expo install react-native-screens react-native-safe-area-context // 'npx expo' command line interface provides a way to install dependencies  specific to Expo projects.
+    @react-navigation/bottom-tabs
+    @expo/vector-icons
 
 
 # Ongelmat / Tuntemukset
