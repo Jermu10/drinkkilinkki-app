@@ -32,7 +32,7 @@ Saatiin!
 
 Ajattelin tehdä jokaisen sivun omaan kansioon, jonka sisällä on sen sivun kaikki asiat (komponentit, funktiot ja testit jne.)
 
-Aloitan navigaatio kansiosta johon luon Navigation.js Tässä lista kirjastoista, mitä ainakin pitäisi ladata:
+### Aloitan navigaatio kansiosta johon luon Navigation.js Tässä lista kirjastoista, mitä ainakin pitäisi ladata:
 
     @react-navigation/native
     npx expo install react-native-screens react-native-safe-area-context // 'npx expo' command line interface provides a way to install dependencies  specific to Expo projects.
