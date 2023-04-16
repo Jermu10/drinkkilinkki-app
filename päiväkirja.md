@@ -6,7 +6,7 @@
   
     npm install -g expo-cli // Jos ei ole expo-cli vielä valmiiksi koneessa
     npx create-expo-app drinkkilinkkiapp
-    expo start // Kokeillaan heti saadaanko sovellus pyörimään
+    expo start #Kokeillaan heti saadaanko sovellus pyörimään
 
 Saatiin!    
 
