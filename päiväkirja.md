@@ -1,6 +1,6 @@
 # Drinkkilinkki-app päiväkirja
 
-## 1 - Projektin luonti
+## 1 - Projektin luonti 
 
 ### Aloitin luomalla projektin luomalla projektin 'lopputyö' kansioon
   
@@ -21,8 +21,8 @@ Saatiin!
     git remote add origin https://github.com/Jermu10/drinkkilinkki-app.git
     git push -u origin main
 
-# Ongelmat
+# Ongelmat / Tuntemukset
 
-## 1 - Projektin luonti ongelmat
+## 1 - Projektin luonti ongelmat. Aikaa kului 1h
 
-Meillä on ollut nyt paljon Dockerista opetusta ja ajattelin, että se olisi hauska ottaa tähän mukaan. No se ei sitten ihan toimikkaan, kun expo-cli pitäisi ladata sinne konttiin ja siltikään emulaattorit eivät toimineet jne. Joten jätin sen pienen väännön jälkeen pois projektista.
+Meillä on ollut nyt paljon Dockerista opetusta ja ajattelin, että se olisi hauska ottaa tähän mukaan. No se ei sitten ihan toimikkaan, kun expo-cli pitäisi ladata sinne konttiin ja siltikään emulaattorit eivät toimineet jne. Joten jätin sen pienen väännön jälkeen pois projektista. Tämän takia yksinkertaisen projektin aloittamiseen kesti aikaa tunti.
