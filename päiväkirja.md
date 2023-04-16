@@ -20,6 +20,18 @@ Saatiin!
     git branch -M main
     git remote add origin https://github.com/Jermu10/drinkkilinkki-app.git
     git push -u origin main
+    
+    
+    
+    
+    
+## 2 - Valmiiden komponenttien siivoaminen ja navigaation luominen
+
+- Aloitetaan poistamalla 'assets' kansio, jossa kuvia, mitä ei tarvita.
+- Siivotaan App.js sivulta kaikki koodi pois.
+
+Ajattelin tehdä jokaisen sivun 
+
 
 # Ongelmat / Tuntemukset
 
