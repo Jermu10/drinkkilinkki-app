@@ -45,3 +45,10 @@ Ajattelin tehdä jokaisen sivun omaan kansioon, jonka sisällä on sen sivun kai
 ## 1 - Projektin luonti ongelmat. Aikaa kului 1h
 
 Meillä on ollut nyt paljon Dockerista opetusta ja ajattelin, että se olisi hauska ottaa tähän mukaan. No se ei sitten ihan toimikkaan, kun expo-cli pitäisi ladata sinne konttiin ja siltikään emulaattorit eivät toimineet jne. Joten jätin sen pienen väännön jälkeen pois projektista. Tämän takia yksinkertaisen projektin aloittamiseen kesti aikaa tunti.
+
+## 2 - Navigaatio fiilikset
+
+Hirveästi eri paketteja pitää asentaa. Muuten meni ihan kivuttomasti. 
+
+
+
