@@ -266,6 +266,10 @@ Itselle vähän mystisempi aihepiiri vielä, jota toki paljon oppi matkanvarrell
           padding: 40,
         },
        });
+       
+## 7 - Julkaisu
+
+En julkaise kuin itselleni, koska maksullinen api sovelluksessa. Buildasin eas.json ja muokkasin sen toimimaan ios simulaattorilla. Tämän jälkeen buildasin projektin ja sitten ei tarvinnut kun Y:tä painaa ja sovellus oli asennettu simulaattorilleni.
 
 # Ongelmat / Tuntemukset
 
@@ -294,6 +298,10 @@ Myös, ehkä sovelluksen ymmärrys promtiin on heikompi, koska kielenä suomi
 
 Tähän meni lopussa enemmän aikaa, kun osasin odottaa, mutta paljon oppi mitä kaikkea tarvitsee käyttää, jos haluaa asioita liikuttaa.
 Kuvan lisääminen taustakuvaksi osottautui lopulta liian vaikeaksi, mutta varmaan olisi ollut helppo asia.
+
+## 7 - Julkaisu
+
+https://docs.expo.dev/build-reference/simulators/ Tämän avulla suht yksinkertainen proseduuri.
   
 
 
