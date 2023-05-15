@@ -192,6 +192,10 @@ Tässä esimerkki Drink.js handleDeleteDrink funktiosta ja Pressable:sta (koodis
     console.log(`New drink created: ${drinkName}`);
      }
     };
+    
+    
+![Screenshot 2023-05-15 at 20 30 22](https://github.com/Jermu10/drinkkilinkki-app/assets/104775534/24e5c102-c501-429b-9a4f-c2d50c70d17e)
+
 
 ## 5 -  Kysy chatGtp:ltä
 
